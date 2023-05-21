@@ -1,0 +1,1 @@
+<p>Projeto de site responsivo criado durante o evento NLW Spacetime da Rocketseat</p>
